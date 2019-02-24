@@ -1,6 +1,6 @@
-# hati
+# Hati
 
-A new Flutter project.
+A conversation-based matchmaker application.
 
 ## Getting Started
 
